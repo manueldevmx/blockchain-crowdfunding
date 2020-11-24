@@ -3,7 +3,7 @@ import { Stat, StatGroup, StatLabel, StatNumber } from '@chakra-ui/react';
 
 const Stats = () => {
     return ( 
-       <StatGroup my={20} >
+       <StatGroup >
           <Stat  textAlign="center">
             <StatLabel>
                Cuentas con IPTS

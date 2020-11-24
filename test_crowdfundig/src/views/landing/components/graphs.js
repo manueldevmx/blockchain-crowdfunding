@@ -8,7 +8,7 @@ const Graphs = () => {
     };
 
     return ( 
-        <Box >
+        <Box display="flex">
         
             <Box 
             as="iframe"

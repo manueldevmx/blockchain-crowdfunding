@@ -99,7 +99,7 @@ const BoughtCTA = () => {
                 </NumberInput>
 
 
-                <InputRightAddon>DCR</InputRightAddon>
+                <InputRightAddon>IPTS</InputRightAddon>
 
                </InputGroup>
 
